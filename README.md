@@ -4,7 +4,7 @@
 With over 5 years in the tech industry, I specialize in Web Development, blockchain solutions, and scalable cloud architecture. My passion is leveraging cutting-edge technologies to solve complex business challenges and create transformative user experiences.
 
 ### 🚀 **Expertise**
-- **Full Stack Development**: React.js, Next.js, Node.js, Express.js, Php, Laravel, MongoDB, Mysql
+- **Full Stack Development**: Node.js, Express.js, Php, Laravel, MongoDB, Mysql, React.js, Next.js,
 - **Blockchain**: Ethereum, Solidity, Web3.js
 - **Cloud Services**: AWS, Google Cloud, Azure, Digitalocean
 - **DevOps**: Docker, CI/CD pipelines
