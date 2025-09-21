@@ -1,4 +1,4 @@
-# Kawsar - Full Stack Developer & Tech Innovator
+# Kawsar - Full Stack Developer & OTT Enthusiast
 
 👨‍💻 **About Me**  
 With over 5 years in the tech industry, I specialize in Web Development, blockchain solutions, and scalable cloud architecture. My passion is leveraging cutting-edge technologies to solve complex business challenges and create transformative user experiences.
