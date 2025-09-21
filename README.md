@@ -1,10 +1,10 @@
 # Kawsar - Full Stack Developer & OTT Enthusiast
 
 👨‍💻 **About Me**  
-With over 5 years in the tech industry, I specialize in Web Development, blockchain solutions, and scalable cloud architecture. My passion is leveraging cutting-edge technologies to solve complex business challenges and create transformative user experiences.
+With over 5 years in the tech industry, I specialize in Web Development, OTT Platform, blockchain solutions, and scalable cloud architecture. My passion is leveraging cutting-edge technologies to solve complex business challenges and create transformative user experiences.
 
 ### 🚀 **Expertise**
-- **Full Stack Development**: Node.js, Express.js, Php, Laravel, MongoDB, Mysql, React.js, Next.js,
+- **Full Stack Development**: PHP, Node.js, GoLang, Laravel, Express.js, MongoDB, Mysql, React.js, Next.js,
 - **Blockchain**: Ethereum, Solidity, Web3.js
 - **Cloud Services**: AWS, Google Cloud, Azure, Digitalocean
 - **DevOps**: Docker, CI/CD pipelines
@@ -16,7 +16,7 @@ With over 5 years in the tech industry, I specialize in Web Development, blockch
   
 ### 🛠️ **Tech Stack**
 - **Frontend**: React.js, Next.js, Vue.js
-- **Backend**: Node.js, Express.js, Php, Laravel, Rust
+- **Backend**: PHP, Node.js, Express.js, GoLang, Laravel, Rust
 - **Databases**: MongoDB, MySQL, Redis, VectorDB
 - **Cloud & DevOps**: AWS, GCP, Azure, Docker, Digitalocean
 - **Blockchain**: Ethereum, Binance Smart Chain, Solidity,
